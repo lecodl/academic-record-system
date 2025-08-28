@@ -1,6 +1,6 @@
-Este é um aplicativo desktop em Python para gerenciar o cadastro de estudantes. Ele permite adicionar, buscar, atualizar e deletar informações de alunos de forma simples, usando uma interface gráfica feita com Tkinter. O banco de dados é feito em SQLite, então tudo fica armazenado localmente, sem necessidade de conexão com a internet.
+This is a desktop application in Python for managing student records. It allows you to add, search, update, and delete student information easily, using a graphical interface built with Tkinter. The database is implemented with SQLite.
 
-- Uso de:
-  Tkinter (para a interface gráfica)
-  Pillow (para a manipulação de imagens)
-  tkcalendar (para o seletor de datas)
+Technologies used:
+- Tkinter (for the graphical user interface)
+- Pillow (for image processing)
+- tkcalendar (for the date picker)
